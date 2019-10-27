@@ -1,0 +1,22 @@
+{
+  "name": "testserver",
+  "version": "0.0.1",
+  "description": "Test Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "Server",
+    "test"
+  ],
+  "author": "Shubham",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
