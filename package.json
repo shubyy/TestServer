@@ -11,7 +11,7 @@
     "Server",
     "test"
   ],
-  "author": "Shubham",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "uuid": "^3.3.3"
